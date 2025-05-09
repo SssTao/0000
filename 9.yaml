@@ -1,0 +1,2591 @@
+proxies:
+  - name: "\U0001F1F0\U0001F1F7韩国1 | ⬇️ 7.1MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 2050
+    server: 02a.seoulcitygovernment.com.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - auth: 77d16a10-7d7f-443e-acad-5b279260a523
+    name: "\U0001F1F3\U0001F1F1荷兰1 | ⬇️ 1.3MB/s"
+    obfs: salamander
+    obfs-password: LNAnPYDfFyesRAVn
+    password: 77d16a10-7d7f-443e-acad-5b279260a523
+    port: 21166
+    ports: 21000-26000
+    server: hl1.gy6688.xyz
+    skip-cert-verify: true
+    sni: hl1.gy6688.xyz
+    type: hysteria2
+    udp: true
+  - auth: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    down: 125
+    name: "\U0001F1F7\U0001F1FA俄罗斯1 | ⬇️ 1.3MB/s"
+    password: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    port: 37905
+    server: ru2.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    auth_str: dongtaiwang.com
+    down: 55
+    name: "\U0001F1EB\U0001F1F7法国1 | ⬇️ 1.5MB/s"
+    port: 46938
+    protocol: udp
+    server: 195.154.200.178
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    udp: true
+    up: 11
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    auth_str: dongtaiwang.com
+    down: 100
+    name: "\U0001F1EB\U0001F1F7法国2 | ⬇️ 2.6MB/s"
+    port: 14241
+    protocol: udp
+    server: 51.159.226.1
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    udp: true
+    up: 100
+  - auth: 77d16a10-7d7f-443e-acad-5b279260a523
+    name: "\U0001F1F3\U0001F1F1荷兰2 | ⬇️ 3.3MB/s"
+    obfs: salamander
+    obfs-password: LNAnPYDfFyesRAVn
+    password: 77d16a10-7d7f-443e-acad-5b279260a523
+    port: 23966
+    ports: 21000-26000
+    server: hl1.gy6688.xyz
+    skip-cert-verify: true
+    sni: hl1.gy6688.xyz
+    type: hysteria2
+    udp: true
+  - auth: 033910ac-f25e-46f0-81db-963c2fe66dc2
+    down: 100
+    name: "\U0001F1FA\U0001F1F8美国1 | ⬇️ 2.0MB/s"
+    obfs: salamander
+    obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+    password: 033910ac-f25e-46f0-81db-963c2fe66dc2
+    port: 31005
+    server: 45.147.201.231
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1F9\U0001F1FC台湾1 | ⬇️ 11.2MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a02.taipeicitygovernment.chernovtsy.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - name: "\U0001F1EF\U0001F1F5日本1 | ⬇️ 1.4MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 2053
+    server: 03.tokyometropolis.kharkov.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国2 | ⬇️ 3.0MB/s"
+    network: ws
+    port: 443
+    server: 104.16.94.219
+    tls: true
+    type: vless
+    udp: true
+    uuid: 236d825d-ff2e-4751-af97-6ba3a34675fe
+    ws-opts:
+      headers:
+        Host: abnercosmico.cc
+      path: /
+    servername: abnercosmico.cc
+  - name: "\U0001F1EF\U0001F1F5日本2 | ⬇️ 2.5MB/s"
+    network: ws
+    port: 8442
+    server: 185.233.184.66
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5543ae5c-c24f-405a-9266-597cbc43c818
+    ws-opts:
+      headers:
+        Host: miku.mikuru.ip-ddns.com
+      path: /?ed=2560
+    servername: miku.mikuru.ip-ddns.com
+  - auth: 966d8933-bae6-4fc8-babe-f6e367870d51
+    down: 100
+    name: "\U0001F1FA\U0001F1F8美国3 | ⬇️ 2.5MB/s"
+    obfs: salamander
+    obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+    password: 966d8933-bae6-4fc8-babe-f6e367870d51
+    port: 31005
+    server: 45.147.201.231
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+    up: 100
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西1 | ⬇️ 2.5MB/s"
+    network: ws
+    port: 80
+    server: 104.20.107.214
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 81962f19-080f-4b2b-a3d7-00eaf762a6b2
+    ws-opts:
+      headers:
+        Host: 251694353291312025050915051250653.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1F3\U0001F1F1荷兰3 | ⬇️ 1.6MB/s"
+    network: tcp
+    port: 30722
+    server: 77.110.116.150
+    tls: false
+    type: vless
+    udp: true
+    uuid: 534948ca-cf21-4447-91b7-3396c751cdaf
+  - name: "\U0001F1EF\U0001F1F5日本3 | ⬇️ 6.3MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 2053
+    server: 06.tokyometropolis.kyiv.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - alterId: 64
+    cipher: auto
+    name: "\U0001F300其他1-CN | ⬇️ 1.3MB/s"
+    port: 41554
+    server: 183.236.51.38
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西2 | ⬇️ 2.3MB/s"
+    network: ws
+    port: 80
+    server: 172.67.27.112
+    tls: false
+    type: vmess
+    udp: true
+    uuid: ef01906d-5e58-4170-ba53-33820d7b0f97
+    ws-opts:
+      headers:
+        Host: 867368136305062025050915044273363.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国4 | ⬇️ 1.2MB/s"
+    password: ca9c0c54-1513-11f0-8a7b-f23c913c8d2b
+    port: 443
+    server: 7c5f646e-sw3ts0-tdahby-1tnab.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 7c5f646e-sw3ts0-tdahby-1tnab.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国5 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 443
+    server: 103.21.244.195
+    tls: true
+    type: vless
+    udp: true
+    uuid: 367da757-fefc-4354-93a1-47b3c7b0d443
+    ws-opts:
+      headers:
+        Host: my126.worldip.dpdns.org
+      path: /?ed=2560
+    servername: my126.worldip.dpdns.org
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西3 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 104.20.107.214
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e4428179-1e5c-428a-a921-cda20cfd75a4
+    ws-opts:
+      headers:
+        Host: 572182576092712025050915044199514.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1F9\U0001F1FC台湾2 | ⬇️ 1.5MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a10.taipeicitygovernment.kyiv.ua
+    skip-cert-verify: false
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - auth: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    down: 190
+    name: "\U0001F1FA\U0001F1F8美国6 | ⬇️ 1.0MB/s"
+    password: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    port: 39232
+    server: us3.node.cross666.top
+    skip-cert-verify: true
+    sni: www.yahoo.com
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: adef36f8-1d9d-4bba-b44c-db7a95ed3730
+    name: "\U0001F1F8\U0001F1EC新加坡1 | ⬇️ 2.4MB/s"
+    password: adef36f8-1d9d-4bba-b44c-db7a95ed3730
+    port: 48214
+    server: xjp2.qishuijc.top
+    skip-cert-verify: true
+    sni: xjp2.qishuijc.top
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1F8\U0001F1EC新加坡2 | ⬇️ 6.8MB/s"
+    password: 09e8b39a-4c09-4df0-a50c-af3bef01567e
+    port: 35000
+    server: gzyd.cg.xxality.cn
+    sni: cgsg2.hysality.com
+    type: trojan
+    udp: true
+  - name: "\U0001F1EF\U0001F1F5日本4 | ⬇️ 2.1MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 2053
+    server: 08.tokyometropolis.odessa.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - name: "\U0001F300其他2-未识别 | ⬇️ 2.6MB/s"
+    network: ws
+    port: 443
+    server: 212.183.88.51
+    tls: true
+    type: vless
+    udp: true
+    uuid: 794f9f41-92c9-4a78-8ffc-1f82cb48a4e2
+    ws-opts:
+      headers:
+        Host: 0229.patterdeng.pp.ua
+      path: /?ed=2560
+    servername: 0229.patterdeng.pp.ua
+  - name: "\U0001F1FA\U0001F1F8美国7 | ⬇️ 1.6MB/s"
+    password: c12f73f6-e8c7-11ed-9246-f23c9164ca5d
+    port: 443
+    server: e0439852-sw3ts0-sw9i52-6gn6.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: e0439852-sw3ts0-sw9i52-6gn6.la3.tcpbbr.net
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 100
+    name: "\U0001F1F7\U0001F1FA俄罗斯2 | ⬇️ 1.1MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 39778
+    server: ru1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 400
+    name: "\U0001F1FA\U0001F1F8美国8 | ⬇️ 1.1MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 37177
+    server: us4.node.cross666.top
+    skip-cert-verify: true
+    sni: www.yahoo.com
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 400
+    name: "\U0001F1EB\U0001F1F7法国3 | ⬇️ 1.1MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 39411
+    server: fr1.node.cross666.top
+    skip-cert-verify: true
+    sni: ubuntu.mirrors.ovh.net
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1EF\U0001F1F5日本5 | ⬇️ 4.5MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 2053
+    server: 02.tokyometropolis.ivano-frankivsk.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - name: "\U0001F1EF\U0001F1F5日本6 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 12456
+    server: 121.129.91.180
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5543ae5c-c24f-405a-9266-597cbc43c818
+    ws-opts:
+      headers:
+        Host: miku.mikuru.ip-ddns.com
+      path: /?ed=2560
+    servername: miku.mikuru.ip-ddns.com
+  - auth: 4ab4694d-72df-4438-b087-66a0892b7904
+    name: "\U0001F1F8\U0001F1EC新加坡3 | ⬇️ 3.0MB/s"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 4ab4694d-72df-4438-b087-66a0892b7904
+    port: 13301
+    server: baipiaoyun-singapore.baipiaoyun.site
+    skip-cert-verify: true
+    sni: s0.awsstatic.com
+    type: hysteria2
+    udp: true
+  - alpn:
+      - h3
+    auth: 862e90e1-2f26-4506-b8b9-0adf20da05fc
+    name: "\U0001F1E8\U0001F1E6加拿大1 | ⬇️ 1.9MB/s"
+    password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
+    port: 54530
+    server: 40.233.88.100
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - alpn:
+      - http%2F1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8美国9 | ⬇️ 7.4MB/s"
+    network: ws
+    port: 443
+    server: 172.67.175.139
+    tls: true
+    type: vless
+    udp: true
+    uuid: aa424865-2762-404c-b767-66c9f98e026b
+    ws-opts:
+      headers:
+        Host: edS859886XYzXS.859886.xYZ
+      path: /25Rajr8UdFGa29fCwxS
+    servername: edS859886XYzXS.859886.xYZ
+  - auth: 349c3556-e414-4cc0-ad6c-737d790638b5
+    down: 400
+    name: "\U0001F300其他3-TR | ⬇️ 1.3MB/s"
+    password: 349c3556-e414-4cc0-ad6c-737d790638b5
+    port: 38301
+    server: tr01.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.dogado.de
+    type: hysteria2
+    udp: true
+    up: 100
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西4 | ⬇️ 2.2MB/s"
+    network: ws
+    port: 80
+    server: 104.20.107.214
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 8467802a-10c7-453b-ad6c-67933555f6d4
+    ws-opts:
+      headers:
+        Host: 160034914342212025050915051162241.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1EF\U0001F1F5日本7 | ⬇️ 1.6MB/s"
+    network: ws
+    port: 50008
+    server: 59.25.160.141
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5543ae5c-c24f-405a-9266-597cbc43c818
+    ws-opts:
+      headers:
+        Host: miku.mikuru.ip-ddns.com
+      path: /?ed=2560
+    servername: miku.mikuru.ip-ddns.com
+  - auth: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    down: 300
+    name: "\U0001F1E9\U0001F1EA德国1 | ⬇️ 3.2MB/s"
+    password: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    port: 39097
+    server: de1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.dogado.de
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1EC\U0001F1E7英国1 | ⬇️ 1.5MB/s"
+    network: ws
+    port: 443
+    server: 45.142.120.97
+    tls: true
+    type: vless
+    udp: true
+    uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
+    ws-opts:
+      headers:
+        Host: CxNiMjJz.cAfUnEaR.InFo
+      path: /
+    servername: CxNiMjJz.cAfUnEaR.InFo
+  - auth: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    down: 190
+    name: "\U0001F1FA\U0001F1F8美国10 | ⬇️ 6.2MB/s"
+    password: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    port: 36566
+    server: us3.node.cross666.top
+    skip-cert-verify: true
+    sni: www.yahoo.com
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1FA\U0001F1F8美国11 | ⬇️ 2.2MB/s"
+    network: ws
+    port: 16616
+    server: 45.63.62.225
+    tls: true
+    type: vless
+    udp: true
+    uuid: 0fc8452a-17f9-47de-95dd-65de502d39da
+    ws-opts:
+      headers:
+        Host: madcity2.777999.lol
+      path: /?ed=2560
+    servername: madcity2.777999.lol
+  - auth: nfsn666
+    name: "\U0001F1FA\U0001F1F8美国12 | ⬇️ 2.0MB/s"
+    password: nfsn666
+    port: 8888
+    server: sj-arm.nfsn666.gq
+    skip-cert-verify: true
+    sni: sj-arm.nfsn666.gq
+    type: hysteria2
+    udp: true
+  - auth: wol314webO;
+    name: "\U0001F1FA\U0001F1F8美国13 | ⬇️ 8.4MB/s"
+    password: wol314webO;
+    port: 2048
+    server: v.outlee.com
+    skip-cert-verify: false
+    sni: v.outlee.com
+    type: hysteria2
+    udp: true
+  - alpn:
+      - h3
+    name: "\U0001F1F9\U0001F1FC台湾3 | ⬇️ 2.1MB/s"
+    network: ws
+    password: Aimer
+    port: 2096
+    server: 167.68.4.10
+    skip-cert-verify: false
+    sni: epccj.ambercc.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epccj.ambercc.filegear-sg.me
+      path: /?ed=2560&proxyip=ts.hpc.tw
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西5 | ⬇️ 4.0MB/s"
+    network: ws
+    port: 443
+    server: 45.202.113.20
+    skip-cert-verify: true
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 399ad8b0-5b80-4137-9a04-7ea413e377d5
+    ws-opts:
+      headers:
+        Host: br.lzj520hxw.dpdns.org
+      path: /vmess-argo?ed=2048
+    servername: br.lzj520hxw.dpdns.org
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西6 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 80
+    server: 104.18.10.143
+    skip-cert-verify: true
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 06135553-6f54-4d32-af08-83bc94823e7e
+    ws-opts:
+      headers:
+        Host: 702826126377772025041118280413864.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1F9\U0001F1FC台湾4 | ⬇️ 1.0MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a12.taipeicitygovernment.org.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - auth: d4d3a6ca-4da0-410a-9b8f-e37c023ae30c
+    name: "\U0001F1FA\U0001F1F8美国14 | ⬇️ 5.0MB/s"
+    password: d4d3a6ca-4da0-410a-9b8f-e37c023ae30c
+    port: 443
+    server: alipay-api-us-a-3.testred.xyz
+    skip-cert-verify: true
+    sni: alipay-api-us-a-3.testred.xyz
+    type: hysteria2
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西7 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 80
+    server: 104.17.250.255
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e87d28ec-757a-49b1-9608-b647a41651d4
+    ws-opts:
+      headers:
+        Host: 130625439513922025050915044226898.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西8 | ⬇️ 1.3MB/s"
+    network: ws
+    port: 80
+    server: 104.24.227.36
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 81962f19-080f-4b2b-a3d7-00eaf762a6b2
+    ws-opts:
+      headers:
+        Host: 208381082532822025050915051232073.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1F9\U0001F1FC台湾5 | ⬇️ 2.0MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a03.taipeicitygovernment.cn.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - alpn:
+      - h3
+    auth: 399ad8b0-5b80-4137-9a04-7ea413e377d5
+    name: "\U0001F1E7\U0001F1F7巴西9 | ⬇️ 4.2MB/s"
+    password: 399ad8b0-5b80-4137-9a04-7ea413e377d5
+    port: 41000
+    server: 164.152.33.5
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西10 | ⬇️ 1.8MB/s"
+    network: ws
+    port: 80
+    server: 141.101.113.248
+    tls: false
+    type: vmess
+    udp: true
+    uuid: ef01906d-5e58-4170-ba53-33820d7b0f97
+    ws-opts:
+      headers:
+        Host: 700448225819122025050915044250665.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西11 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 104.24.227.36
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e4428179-1e5c-428a-a921-cda20cfd75a4
+    ws-opts:
+      headers:
+        Host: 539932091939452025050915044191650.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - client-fingerprint: random
+    name: "\U0001F1FA\U0001F1F8美国15 | ⬇️ 1.3MB/s"
+    network: ws
+    port: 443
+    server: 45.67.215.168
+    tls: true
+    type: vless
+    udp: true
+    uuid: 794f9f41-92c9-4a78-8ffc-1f82cb48a4e2
+    ws-opts:
+      headers:
+        Host: 0229.patterdeng.pp.ua
+      path: /?ed=2560
+    servername: 0229.patterdeng.pp.ua
+  - name: "\U0001F1F9\U0001F1FC台湾6 | ⬇️ 6.2MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a11.taipeicitygovernment.net.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西12 | ⬇️ 2.2MB/s"
+    network: ws
+    port: 80
+    server: 104.20.107.214
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e7170564-e148-4ebf-be03-8837ee6a3825
+    ws-opts:
+      headers:
+        Host: 318417319121272025050915044354632.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1FA\U0001F1F8美国16 | ⬇️ 4.6MB/s"
+    network: ws
+    port: 10509
+    server: ssm.pimax.com
+    skip-cert-verify: true
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 68876abb-0e56-4beb-b959-34a4bc57a6a2
+    ws-opts:
+      headers:
+        Host: ssm.pimax.com
+      path: /fkgevws
+    servername: ssm.pimax.com
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西13 | ⬇️ 1.9MB/s"
+    network: ws
+    port: 80
+    server: 172.67.188.4
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 3ca48a3c-f2c4-4c6d-a86d-f00b52b64d08
+    ws-opts:
+      headers:
+        Host: 234232928086612025050915051230219.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国17 | ⬇️ 2.8MB/s"
+    password: 74e74e40-e134-11ee-bded-f23c913c8d2b
+    port: 443
+    server: ce178cf5-sw3ts0-tchszt-1quq9.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: ce178cf5-sw3ts0-tchszt-1quq9.la3.tcpbbr.net
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 125
+    name: "\U0001F1F7\U0001F1FA俄罗斯3 | ⬇️ 1.2MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 38709
+    server: ru2.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1F9\U0001F1FC台湾7 | ⬇️ 10.1MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a06.taipeicitygovernment.dp.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西14 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 104.16.48.235
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 0ad4e581-231b-4676-ad75-d8d2db103795
+    ws-opts:
+      headers:
+        Host: 776419707867922025050915051251432.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西15 | ⬇️ 1.4MB/s"
+    network: ws
+    port: 80
+    server: 172.67.188.4
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e4428179-1e5c-428a-a921-cda20cfd75a4
+    ws-opts:
+      headers:
+        Host: 568180229827372025050915044197859.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国18 | ⬇️ 3.1MB/s"
+    password: 94614d84-9986-11ee-be7f-f23c9164ca5d
+    port: 443
+    server: 795f4c1e-sw3ts0-t7fl9b-1q16i.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 795f4c1e-sw3ts0-t7fl9b-1q16i.la3.tcpbbr.net
+  - alpn:
+      - h3
+    disable-sni: false
+    name: "\U0001F1F7\U0001F1FA俄罗斯4 | ⬇️ 2.4MB/s"
+    password: f3ba3679-f2f4-465f-92a5-de320b775a88
+    port: 43516
+    reduce-rtt: false
+    request-timeout: 0
+    server: 185.22.155.105
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: tuic
+    udp-relay-mode: native
+    uuid: f3ba3679-f2f4-465f-92a5-de320b775a88
+    version: 5
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西16 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 104.17.93.66
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 0ad4e581-231b-4676-ad75-d8d2db103795
+    ws-opts:
+      headers:
+        Host: 861917686588512025050915051233013.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - auth: 349c3556-e414-4cc0-ad6c-737d790638b5
+    down: 100
+    name: "\U0001F1F7\U0001F1FA俄罗斯5 | ⬇️ 1.2MB/s"
+    password: 349c3556-e414-4cc0-ad6c-737d790638b5
+    port: 37987
+    server: ru1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1F0\U0001F1F7韩国2 | ⬇️ 3.4MB/s"
+    network: ws
+    port: 2087
+    server: lv4.789900.xyz
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 7dd16ab1-2a36-4b32-86fd-eb49fb039752
+    ws-opts:
+      headers:
+        Host: lv4.789900.xyz
+      path: /7dd16ab1-2a36-4b32-86fd-eb49fb039752-vm
+    servername: lv4.789900.xyz
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西17 | ⬇️ 1.8MB/s"
+    network: ws
+    port: 80
+    server: 172.64.83.72
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 06135553-6f54-4d32-af08-83bc94823e7e
+    ws-opts:
+      headers:
+        Host: 883516702807012025050915051332346.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1F9\U0001F1FC台湾8 | ⬇️ 4.2MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a01.taipeicitygovernment.biz.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国19 | ⬇️ 1.8MB/s"
+    password: 6e9cdc20-b92a-11ef-973a-f23c913c8d2b
+    port: 443
+    server: bbc02bbb-sw3ts0-sww7b0-1qwp5.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: bbc02bbb-sw3ts0-sww7b0-1qwp5.la3.tcpbbr.net
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西18 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 80
+    server: 198.41.221.122
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e7170564-e148-4ebf-be03-8837ee6a3825
+    ws-opts:
+      headers:
+        Host: 638864648871072025050707592935178.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国20 | ⬇️ 3.8MB/s"
+    network: ws
+    port: 2053
+    server: 104.16.190.87
+    tls: true
+    type: vless
+    udp: true
+    uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+    ws-opts:
+      headers:
+        Host: bitget1.asdasd.click
+      path: /?ed=2560
+    servername: bitget1.asdasd.click
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西19 | ⬇️ 3.6MB/s"
+    network: ws
+    port: 80
+    server: 104.16.48.235
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e7170564-e148-4ebf-be03-8837ee6a3825
+    ws-opts:
+      headers:
+        Host: 311481997983722025050915044343524.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西20 | ⬇️ 2.2MB/s"
+    network: ws
+    port: 80
+    server: 104.25.168.0
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 3ca48a3c-f2c4-4c6d-a86d-f00b52b64d08
+    ws-opts:
+      headers:
+        Host: 650044799467242025050915051299254.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - auth: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    down: 400
+    name: "\U0001F300其他4-TR | ⬇️ 3.5MB/s"
+    password: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    port: 39737
+    server: tr01.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.dogado.de
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    down: 100
+    name: "\U0001F1F7\U0001F1FA俄罗斯6 | ⬇️ 1.1MB/s"
+    password: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    port: 36269
+    server: ru1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: b6ffadff-b7ad-497e-87c4-a2b315db85ea
+    name: "\U0001F1FA\U0001F1F8美国21 | ⬇️ 7.2MB/s"
+    password: b6ffadff-b7ad-497e-87c4-a2b315db85ea
+    port: 43224
+    server: 107.172.99.78
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西21 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 80
+    server: 104.25.168.0
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 81962f19-080f-4b2b-a3d7-00eaf762a6b2
+    ws-opts:
+      headers:
+        Host: 808362860044602025050915051254944.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F300其他5-QA | ⬇️ 6.2MB/s"
+    password: >-
+      ZmQwM2FiYjRhNjJlYzFkMWQxNjJkODkyN2M4ZDU4OWM=:ZTVmOTdhMjEtMWJlYS00YTc0LTllM2EtNDg2YzQzNDM=
+    port: 20104
+    server: zz.mogufan.com
+    type: ss
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西22 | ⬇️ 1.0MB/s"
+    network: ws
+    port: 80
+    server: 172.64.83.72
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e4428179-1e5c-428a-a921-cda20cfd75a4
+    ws-opts:
+      headers:
+        Host: 217945977380222025050915044192841.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - client-fingerprint: chrome
+    name: "\U0001F1EE\U0001F1F3印度1 | ⬇️ 7.8MB/s"
+    network: ws
+    port: 443
+    server: zula.ir
+    tls: true
+    type: vless
+    udp: true
+    uuid: d8c37e7f-61d2-4a58-87c9-b8452155c207
+    ws-opts:
+      headers:
+        Host: rOk-CREator.PAgeS.dEv
+      path: /yZrXCc8fOfBeAfet?ed=2560flow=-udp443
+    servername: rOk-CREator.PAgeS.dEv
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西23 | ⬇️ 1.8MB/s"
+    network: ws
+    port: 80
+    server: 104.16.48.235
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 81962f19-080f-4b2b-a3d7-00eaf762a6b2
+    ws-opts:
+      headers:
+        Host: 997196020338412025050915051298420.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - auth: 77d16a10-7d7f-443e-acad-5b279260a523
+    name: "\U0001F1F3\U0001F1F1荷兰4 | ⬇️ 6.0MB/s"
+    obfs: salamander
+    obfs-password: LNAnPYDfFyesRAVn
+    password: 77d16a10-7d7f-443e-acad-5b279260a523
+    port: 21458
+    ports: 21000-26000
+    server: hl1.gy6688.xyz
+    skip-cert-verify: true
+    sni: hl1.gy6688.xyz
+    type: hysteria2
+    udp: true
+  - auth: 349c3556-e414-4cc0-ad6c-737d790638b5
+    down: 400
+    name: "\U0001F1EB\U0001F1F7法国4 | ⬇️ 1.2MB/s"
+    password: 349c3556-e414-4cc0-ad6c-737d790638b5
+    port: 35633
+    server: fr1.node.cross666.top
+    skip-cert-verify: true
+    sni: ubuntu.mirrors.ovh.net
+    type: hysteria2
+    udp: true
+    up: 100
+  - cipher: chacha20-ietf
+    name: "\U0001F1EF\U0001F1F5日本8 | ⬇️ 5.7MB/s"
+    obfs: plain
+    obfs-param: None
+    password: myssojbk
+    port: 23334
+    protocol: auth_aes128_md5
+    protocol-param: '10787:IjcJ8nPZd0pq'
+    server: 183.240.179.190
+    type: ssr
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西24 | ⬇️ 1.9MB/s"
+    network: ws
+    port: 80
+    server: 104.17.93.66
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 81962f19-080f-4b2b-a3d7-00eaf762a6b2
+    ws-opts:
+      headers:
+        Host: 308431205310982025050915051289164.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - cipher: aes-256-cfb
+    name: "\U0001F1F8\U0001F1EC新加坡4 | ⬇️ 4.2MB/s"
+    obfs: tls1.2_ticket_auth
+    obfs-param: sg2-cdn-route.couldflare-cdn.com
+    password: uiACqrIr
+    port: 56138
+    protocol: origin
+    protocol-param: ''
+    server: cm2.xcone.xyz
+    type: ssr
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西25 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 172.67.27.112
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 4a154623-62d5-4425-8a4e-362996f32737
+    ws-opts:
+      headers:
+        Host: 979281804954242025050915051179541.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西26 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 104.17.93.66
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 06135553-6f54-4d32-af08-83bc94823e7e
+    ws-opts:
+      headers:
+        Host: 14251435012932025050915051344984.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西27 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 172.67.27.112
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 81962f19-080f-4b2b-a3d7-00eaf762a6b2
+    ws-opts:
+      headers:
+        Host: 53666741071812025050915051265514.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1F9\U0001F1FC台湾9 | ⬇️ 8.9MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a07.taipeicitygovernment.if.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F300其他6-GL | ⬇️ 4.1MB/s"
+    password: >-
+      ZmQwM2FiYjRhNjJlYzFkMWQxNjJkODkyN2M4ZDU4OWM=:ZTVmOTdhMjEtMWJlYS00YTc0LTllM2EtNDg2YzQzNDM=
+    port: 20108
+    server: zz.mogufan.com
+    type: ss
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国22 | ⬇️ 4.5MB/s"
+    password: 57f70d4e-6428-11ef-8f5f-f23c913c8d2b
+    port: 443
+    server: 4d31fe4d-sw3ts0-t4m86v-1s9pj.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 4d31fe4d-sw3ts0-t4m86v-1s9pj.la3.tcpbbr.net
+  - auth: dongtaiwang.com
+    name: "\U0001F1EB\U0001F1F7法国5 | ⬇️ 3.8MB/s"
+    password: dongtaiwang.com
+    port: 4489
+    server: hy2-1.694463.xyz
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国23 | ⬇️ 1.8MB/s"
+    password: f61628aa-3d18-11ec-bb74-f23c9164ca5d
+    port: 443
+    server: 339ec406-sw3ts0-t6yqh9-1bhda.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 339ec406-sw3ts0-t6yqh9-1bhda.la3.tcpbbr.net
+  - auth: b475944d-c4b6-4288-95b5-a33851b17163
+    down: 100
+    name: "\U0001F1FA\U0001F1F8美国24 | ⬇️ 2.2MB/s"
+    obfs: salamander
+    obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+    password: b475944d-c4b6-4288-95b5-a33851b17163
+    port: 31005
+    server: 45.147.201.231
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+    up: 100
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西28 | ⬇️ 1.3MB/s"
+    network: ws
+    port: 80
+    server: 104.25.135.128
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 3ca48a3c-f2c4-4c6d-a86d-f00b52b64d08
+    ws-opts:
+      headers:
+        Host: 324106548010402025050915051228104.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西29 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 80
+    server: 162.159.237.177
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 06135553-6f54-4d32-af08-83bc94823e7e
+    ws-opts:
+      headers:
+        Host: 477083814966922025050915051385882.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国25 | ⬇️ 7.0MB/s"
+    network: ws
+    port: 443
+    server: 172.64.87.97
+    tls: true
+    type: vless
+    udp: true
+    uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+    ws-opts:
+      headers:
+        Host: bitget1.asdasd.click
+      path: /?ed=2560
+    servername: bitget1.asdasd.click
+  - auth: dongtaiwang.com
+    name: "\U0001F1FA\U0001F1F8美国26 | ⬇️ 6.0MB/s"
+    password: dongtaiwang.com
+    port: 57773
+    server: 108.181.5.130
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria2
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西30 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 23.227.60.105
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 3ca48a3c-f2c4-4c6d-a86d-f00b52b64d08
+    ws-opts:
+      headers:
+        Host: 467319318241122025050915051216205.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国27 | ⬇️ 1.3MB/s"
+    password: 0de37cdc-abff-11ef-b7c6-f23c913c8d2b
+    port: 443
+    server: 9540cb4b-sw3ts0-syhw90-1rsuw.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 9540cb4b-sw3ts0-syhw90-1rsuw.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国28 | ⬇️ 2.1MB/s"
+    password: e3975a05-b89e-11ec-a50d-f23c91cfbbc9
+    port: 443
+    server: 732c0961-sw3ts0-sxf56z-1f596.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 732c0961-sw3ts0-sxf56z-1f596.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国29 | ⬇️ 2.5MB/s"
+    password: 48c1e014-28d6-11ec-a0fc-f23c913c8d2b
+    port: 443
+    server: b3addd8c-sw3ts0-sxlsd4-3z3v.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: b3addd8c-sw3ts0-sxlsd4-3z3v.la3.tcpbbr.net
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F1F9\U0001F1FC台湾10 | ⬇️ 7.9MB/s"
+    password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+    port: 50555
+    server: chiyu.myfczy169.top
+    type: ss
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国30 | ⬇️ 3.6MB/s"
+    password: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
+    port: 443
+    server: d631cc98-sw3ts0-swwn15-1phla.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: d631cc98-sw3ts0-swwn15-1phla.la3.tcpbbr.net
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1FA\U0001F1F8美国31 | ⬇️ 5.2MB/s"
+    network: ws
+    port: 443
+    server: 5.10.244.72
+    skip-cert-verify: true
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 9e43aec6-ba4d-4597-9344-4f6fcbd5c8a6
+    ws-opts:
+      headers:
+        Host: digitaloceanus.lzj520hxw.dpdns.org
+      path: /vmess-argo?ed=2048
+    servername: digitaloceanus.lzj520hxw.dpdns.org
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西31 | ⬇️ 1.6MB/s"
+    network: ws
+    port: 80
+    server: 104.25.168.0
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 4a154623-62d5-4425-8a4e-362996f32737
+    ws-opts:
+      headers:
+        Host: 610832230648432025050915051185718.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alpn:
+      - h3
+    auth: ad77e45c-0485-4357-9d64-1593aabc2c19
+    name: "\U0001F1FA\U0001F1F8美国32 | ⬇️ 4.4MB/s"
+    password: ad77e45c-0485-4357-9d64-1593aabc2c19
+    port: 32321
+    server: 108.214.246.79
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+  - auth: 77d16a10-7d7f-443e-acad-5b279260a523
+    name: "\U0001F1F3\U0001F1F1荷兰5 | ⬇️ 3.7MB/s"
+    obfs: salamander
+    obfs-password: LNAnPYDfFyesRAVn
+    password: 77d16a10-7d7f-443e-acad-5b279260a523
+    port: 23827
+    ports: 21000-26000
+    server: hl1.gy6688.xyz
+    skip-cert-verify: true
+    sni: hl1.gy6688.xyz
+    type: hysteria2
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西32 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 80
+    server: 162.159.237.177
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 8467802a-10c7-453b-ad6c-67933555f6d4
+    ws-opts:
+      headers:
+        Host: 40744907036852025050915051194421.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国33 | ⬇️ 2.8MB/s"
+    password: 06b2ac52-fcc6-11ec-bb74-f23c9164ca5d
+    port: 443
+    server: 8be566b2-sw3ts0-sznzxg-1jfvb.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 8be566b2-sw3ts0-sznzxg-1jfvb.la3.tcpbbr.net
+  - alpn:
+      - h3
+    name: "\U0001F1F9\U0001F1FC台湾11 | ⬇️ 2.5MB/s"
+    network: ws
+    password: Aimer
+    port: 443
+    server: 173.245.59.201
+    skip-cert-verify: false
+    sni: epccj.ambercc.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epccj.ambercc.filegear-sg.me
+      path: /?ed=2560&proxyip=ts.hpc.tw
+  - auth: PassWord2
+    name: "\U0001F1FA\U0001F1F8美国34 | ⬇️ 5.3MB/s"
+    obfs: salamander
+    obfs-password: PassWord1
+    password: PassWord2
+    port: 8443
+    server: 198.46.217.253
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1F9\U0001F1FC台湾12 | ⬇️ 5.4MB/s"
+    network: ws
+    port: 50000
+    server: 14.63.60.134
+    tls: true
+    type: vless
+    udp: true
+    uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+    ws-opts:
+      headers:
+        Host: edccj.ambercc.filegear-sg.me
+      path: /?ed=2560&proxyip=ts.hpc.tw
+    servername: edccj.ambercc.filegear-sg.me
+  - name: "\U0001F1F9\U0001F1FC台湾13 | ⬇️ 3.8MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 443
+    server: 01.kbservice.club
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - auth: ae845cbd-08fb-4346-929a-e28a6f3960a8
+    name: "\U0001F1E9\U0001F1EA德国2 | ⬇️ 4.4MB/s"
+    password: ae845cbd-08fb-4346-929a-e28a6f3960a8
+    port: 26630
+    server: hk2.shiyuandian.shop
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+    sni: hk2.shiyuandian.shop
+  - name: "\U0001F1ED\U0001F1F0香港1 | ⬇️ 5.1MB/s"
+    network: ws
+    port: 443
+    server: nnchkclyx.codesofun.pp.ua
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5f077162-99ad-424d-9f77-e5f7e37d9ef8
+    ws-opts:
+      headers:
+        Host: nnchk.codesofun.pp.ua
+      path: /ea3ac731
+    servername: nnchk.codesofun.pp.ua
+  - auth: nfsn666
+    name: "\U0001F1FA\U0001F1F8美国35 | ⬇️ 4.0MB/s"
+    password: nfsn666
+    port: 8888
+    server: sj.nfsn666.gq
+    skip-cert-verify: true
+    sni: sj.nfsn666.gq
+    type: hysteria2
+    udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西33 | ⬇️ 1.0MB/s"
+    network: ws
+    port: 80
+    server: 172.67.27.112
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 8467802a-10c7-453b-ad6c-67933555f6d4
+    ws-opts:
+      headers:
+        Host: 871882694905952025050915051195822.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - name: "\U0001F1FA\U0001F1F8美国36 | ⬇️ 4.2MB/s"
+    password: 9cc3c03e-21fd-11ee-a642-f23c91369f2d
+    port: 443
+    server: fb607d77-sw3ts0-syfwbx-1k0yf.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: fb607d77-sw3ts0-syfwbx-1k0yf.la3.tcpbbr.net
+  - alpn:
+      - h3
+    auth: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+    name: "\U0001F1E8\U0001F1E6加拿大2 | ⬇️ 3.2MB/s"
+    password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
+    port: 45979
+    server: 40.233.80.61
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国37 | ⬇️ 4.3MB/s"
+    password: 6bcf5a10-bfe8-11ec-bd7c-f23c913c8d2b
+    port: 443
+    server: a8b14557-sw3ts0-t5urb7-1i1.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: a8b14557-sw3ts0-t5urb7-1i1.la3.tcpbbr.net
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F1EF\U0001F1F5日本9 | ⬇️ 2.4MB/s"
+    password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+    port: 13127
+    server: chiyu.myfczy169.top
+    type: ss
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国38 | ⬇️ 5.2MB/s"
+    password: 607d365e-7ea1-11ee-95e9-f23c913c8d2b
+    port: 443
+    server: d69c4e47-sw3ts0-sx7hbg-1mmbp.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: d69c4e47-sw3ts0-sx7hbg-1mmbp.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国39 | ⬇️ 3.2MB/s"
+    password: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+    port: 443
+    server: e3d55de0-sw3ts0-t12cnj-1ol97.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: e3d55de0-sw3ts0-t12cnj-1ol97.la3.tcpbbr.net
+  - auth: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
+    name: "\U0001F1FA\U0001F1F8美国40 | ⬇️ 1.6MB/s"
+    password: b72ba5d5-2d5e-45b7-93b5-236d343baa7c
+    port: 47262
+    server: 64.181.207.162
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1E8\U0001F1E6加拿大3 | ⬇️ 3.1MB/s"
+    network: ws
+    port: 443
+    server: www.whatismyip.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+    ws-opts:
+      headers:
+        Host: hl.ylka.dpdns.org
+      path: /?ed=2560
+    servername: hl.ylka.dpdns.org
+  - auth: 4ab4694d-72df-4438-b087-66a0892b7904
+    name: "\U0001F1ED\U0001F1F0香港2 | ⬇️ 1.7MB/s"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 4ab4694d-72df-4438-b087-66a0892b7904
+    port: 11229
+    server: baipiaoyun-hongkongv1.baipiaoyun.site
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria2
+    udp: true
+  - auth: 349c3556-e414-4cc0-ad6c-737d790638b5
+    down: 300
+    name: "\U0001F1E9\U0001F1EA德国3 | ⬇️ 1.3MB/s"
+    password: 349c3556-e414-4cc0-ad6c-737d790638b5
+    port: 35298
+    server: de1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.dogado.de
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1FA\U0001F1F8美国41 | ⬇️ 3.3MB/s"
+    password: 9247343a-5db0-11ee-9367-f23c91369f2d
+    port: 443
+    server: 6bf65e1b-sw3ts0-t4vk19-1nlwy.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 6bf65e1b-sw3ts0-t4vk19-1nlwy.la3.tcpbbr.net
+  - name: "\U0001F1F0\U0001F1F7韩国3 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 443
+    server: 160.79.105.190
+    tls: true
+    type: vless
+    udp: true
+    uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+    ws-opts:
+      headers:
+        Host: hl.ylka.dpdns.org
+      path: /?ed=2560
+    servername: hl.ylka.dpdns.org
+  - alpn:
+      - h3h2
+    name: "\U0001F1F3\U0001F1F1荷兰6 | ⬇️ 3.4MB/s"
+    network: ws
+    port: 2096
+    server: 104.17.148.22
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
+    ws-opts:
+      headers:
+        Host: T864tJqC3b.SoUbLoTiK.iNfO
+      path: /
+    servername: T864tJqC3b.SoUbLoTiK.iNfO
+  - auth: nfsn666
+    name: "\U0001F1EC\U0001F1E7英国2 | ⬇️ 5.5MB/s"
+    password: nfsn666
+    port: 8888
+    server: ld-arm.nfsn666.gq
+    skip-cert-verify: true
+    sni: ld-arm.nfsn666.gq
+    type: hysteria2
+    udp: true
+  - auth: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    down: 400
+    name: "\U0001F1FA\U0001F1F8美国42 | ⬇️ 1.4MB/s"
+    password: d0aabeb6-1111-4cc4-811b-16e235ef7bf6
+    port: 39344
+    server: us4.node.cross666.top
+    skip-cert-verify: true
+    sni: www.yahoo.com
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: 0e94c011-23fd-4cb4-bee2-9a2fda4195b5
+    down: 100
+    name: "\U0001F1FA\U0001F1F8美国43 | ⬇️ 2.1MB/s"
+    obfs: salamander
+    obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+    password: 0e94c011-23fd-4cb4-bee2-9a2fda4195b5
+    port: 30005
+    server: 45.147.201.231
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+    up: 100
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8美国44 | ⬇️ 1.2MB/s"
+    network: tcp
+    port: 65526
+    reality-opts:
+      public-key: 3GAr9Fs6P5bywULijTKlogAPlzyNxVCPTDS40-h7b2Q
+      short-id: aa30e15d
+    server: 1.19990409.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6286ecbd-29c3-4e94-9494-dcccae30b498
+    servername: tesla.com
+  - auth: 78524395-9616-4287-8b6a-98cf92da3db7
+    name: "\U0001F1FA\U0001F1F8美国45 | ⬇️ 6.7MB/s"
+    password: 78524395-9616-4287-8b6a-98cf92da3db7
+    port: 48210
+    server: mg1.qishuijc.top
+    skip-cert-verify: true
+    sni: mg1.qishuijc.top
+    type: hysteria2
+    udp: true
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 100
+    name: "\U0001F1F7\U0001F1FA俄罗斯7 | ⬇️ 1.2MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 38703
+    server: ru1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1F9\U0001F1FC台湾14 | ⬇️ 1.1MB/s"
+    network: ws
+    port: 12297
+    server: 220.73.70.34
+    tls: true
+    type: vless
+    udp: true
+    uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+    ws-opts:
+      headers:
+        Host: edccj.ambercc.filegear-sg.me
+      path: /?ed=2560&proxyip=ts.hpc.tw
+    servername: edccj.ambercc.filegear-sg.me
+  - name: "\U0001F1EF\U0001F1F5日本10 | ⬇️ 4.9MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 2053
+    server: 05.tokyometropolis.kiev.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1荷兰7 | ⬇️ 3.7MB/s"
+    network: ws
+    port: 443
+    server: 104.17.148.22
+    tls: true
+    type: vless
+    udp: true
+    uuid: c2226caf-0134-49d4-aa8c-0069e98b5882
+    ws-opts:
+      headers:
+        Host: 72790032528889957475364702518915.v2line.online
+      path: /netherlands/amsterdam/vl/ws/tls
+    servername: 72790032528889957475364702518915.v2line.online
+  - alpn:
+      - h3%2Ch2%2Chttp%2F1.1
+    client-fingerprint: chrome
+    name: "\U0001F1E9\U0001F1EA德国4 | ⬇️ 2.5MB/s"
+    network: ws
+    port: 8443
+    server: 104.21.69.44
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9a0d271c-2bb5-469a-b104-e31a8d3f6618
+    ws-opts:
+      headers:
+        Host: vip.donghi.ir
+      path: >-
+        /@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7
+    servername: vip.donghi.ir
+  - alpn:
+      - http%2F1.1
+    name: "\U0001F1FA\U0001F1F8美国46 | ⬇️ 1.1MB/s"
+    network: ws
+    password: 4b132e2b-24b1-418b-90e9-a11b619a799b
+    port: 443
+    server: 104.21.82.14
+    sni: m1assddr.777259.xyz
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: m1assddr.777259.xyz
+      path: /Hnko4qt8WwmcpejJLlDlbpi
+  - name: "\U0001F1E9\U0001F1EA德国5 | ⬇️ 1.6MB/s"
+    network: ws
+    port: 443
+    server: 5.10.245.75
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4f2b9193-ab76-401f-a254-10982ac2881a
+    ws-opts:
+      headers:
+        Host: hax-eu.lzj520hxw.dpdns.org
+      path: /lzjjjjj
+    servername: hax-eu.lzj520hxw.dpdns.org
+  - client-fingerprint: random
+    name: "\U0001F1FA\U0001F1F8美国47 | ⬇️ 1.3MB/s"
+    network: ws
+    port: 443
+    server: 104.16.217.226
+    tls: true
+    type: vless
+    udp: true
+    uuid: d4324490-9d8f-4424-9a4d-a5178ebfbeca
+    ws-opts:
+      headers:
+        Host: cf-wuxianll.xixi.icu
+      path: /?ed=2560
+    servername: cf-wuxianll.xixi.icu
+  - name: "\U0001F1FA\U0001F1F8美国48 | ⬇️ 2.1MB/s"
+    password: 2ec58858-976b-11ea-82ef-f23c9164ca5d
+    port: 443
+    server: bf19d58b-sw3ts0-sx4b2t-tng5.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: bf19d58b-sw3ts0-sx4b2t-tng5.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国49 | ⬇️ 5.3MB/s"
+    password: f524c600-db8f-11ee-819e-f23c91cfbbc9
+    port: 443
+    server: 9661d595-sw3ts0-sxt412-1qrx5.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 9661d595-sw3ts0-sxt412-1qrx5.la3.tcpbbr.net
+  - auth: 4ab4694d-72df-4438-b087-66a0892b7904
+    name: "\U0001F1F7\U0001F1FA俄罗斯8 | ⬇️ 2.9MB/s"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 4ab4694d-72df-4438-b087-66a0892b7904
+    port: 13301
+    server: baipiaoyun-rossiya-v1.baipiaoyun.site
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria2
+    udp: true
+  - auth: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    down: 100
+    name: "\U0001F1F7\U0001F1FA俄罗斯9 | ⬇️ 6.2MB/s"
+    password: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    port: 35904
+    server: ru1.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1F9\U0001F1FC台湾15 | ⬇️ 1.5MB/s"
+    password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
+    port: 3462
+    server: a05.taipeicitygovernment.co.ua
+    sni: 45.32.28.232
+    type: trojan
+    udp: true
+  - auth: 81bf9202-5008-43b1-92c2-1df406f10ee9
+    down: 100
+    name: "\U0001F1FA\U0001F1F8美国50 | ⬇️ 1.5MB/s"
+    obfs: salamander
+    obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+    password: 81bf9202-5008-43b1-92c2-1df406f10ee9
+    port: 31005
+    server: 45.147.201.231
+    skip-cert-verify: true
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1FA\U0001F1F8美国51 | ⬇️ 4.3MB/s"
+    password: 3a514c32-65f4-11ea-97ba-f23c913c8d2b
+    port: 443
+    server: a475c591-sw3ts0-tcrvlr-r84q.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: a475c591-sw3ts0-tcrvlr-r84q.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国52 | ⬇️ 5.0MB/s"
+    password: c2b58ae0-d21c-11ef-b414-f23c91cfbbc9
+    port: 443
+    server: 9e7913d1-sw3ts0-swwcfg-1eijl.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 9e7913d1-sw3ts0-swwcfg-1eijl.la3.tcpbbr.net
+  - auth: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46
+    name: "\U0001F1FA\U0001F1F8美国53 | ⬇️ 4.2MB/s"
+    password: c6bccea3-2f03-4f3e-80f4-d6757f1f3f46
+    port: 41951
+    server: sub-us-2.yangxiansheng.online
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1E9\U0001F1EA德国6 | ⬇️ 5.3MB/s"
+    network: tcp
+    port: 443
+    server: 204.10.194.78
+    tls: true
+    type: vless
+    udp: true
+    uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
+    servername: yfnl1.xn--4gq62f52gppi29k.com
+  - auth: 4ab4694d-72df-4438-b087-66a0892b7904
+    name: "\U0001F1E9\U0001F1EA德国7 | ⬇️ 4.3MB/s"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 4ab4694d-72df-4438-b087-66a0892b7904
+    port: 13301
+    server: baipiaoyun-germany.baipiaoyun.site
+    skip-cert-verify: true
+    sni: s0.awsstatic.com
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国54 | ⬇️ 6.1MB/s"
+    network: ws
+    port: 443
+    server: 185.133.35.244
+    tls: true
+    type: vless
+    udp: true
+    uuid: 794f9f41-92c9-4a78-8ffc-1f82cb48a4e2
+    ws-opts:
+      headers:
+        Host: 0229.patterdeng.pp.ua
+      path: /?ed=2560
+    servername: 0229.patterdeng.pp.ua
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E7\U0001F1F7巴西34 | ⬇️ 1.5MB/s"
+    network: ws
+    port: 80
+    server: 162.159.237.177
+    tls: false
+    type: vmess
+    udp: true
+    uuid: e87d28ec-757a-49b1-9608-b647a41651d4
+    ws-opts:
+      headers:
+        Host: 225770662620342025050915044254503.s15.chibaba.filegear-sg.me
+      path: /s15.html
+  - alpn:
+      - h3
+    name: "\U0001F1F9\U0001F1FC台湾16 | ⬇️ 2.6MB/s"
+    network: ws
+    password: Aimer
+    port: 443
+    server: 209.208.227.79
+    skip-cert-verify: false
+    sni: epccj.ambercc.filegear-sg.me
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        Host: epccj.ambercc.filegear-sg.me
+      path: /?ed=2560&proxyip=ts.hpc.tw
+  - auth: ec07cc72-dda7-49ed-92f9-569cab65212a
+    name: "\U0001F1ED\U0001F1F0香港3 | ⬇️ 1.3MB/s"
+    password: ec07cc72-dda7-49ed-92f9-569cab65212a
+    port: 48218
+    server: xg1.qishuijc.top
+    skip-cert-verify: true
+    sni: xg1.qishuijc.top
+    type: hysteria2
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F300其他7-GE | ⬇️ 5.9MB/s"
+    network: ws
+    port: 443
+    server: zula.ir
+    tls: true
+    type: vless
+    udp: true
+    uuid: f12977e6-d296-4d94-9aaf-d31770b70f84
+    ws-opts:
+      headers:
+        Host: cr77.hedieh.dpdns.org
+      path: /?ed=2560
+    servername: cr77.hedieh.dpdns.org
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F1E8\U0001F1E6加拿大4 | ⬇️ 8.5MB/s"
+    network: ws
+    port: 443
+    server: cloudgetservice.mcloudservice.site
+    skip-cert-verify: true
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 2c329585-67a8-498b-8d38-176dac806bc7
+    ws-opts:
+      headers:
+        Host: MAxnETVipAP-ca2.MaxNetseRVIcES.OnLINE
+      path: /linkws
+    servername: cloudgetservice.mcloudservice.site
+  - name: "\U0001F1FA\U0001F1F8美国55 | ⬇️ 6.7MB/s"
+    password: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
+    port: 443
+    server: 2b102174-sw3ts0-swsmkh-1s0a7.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 2b102174-sw3ts0-swsmkh-1s0a7.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国56 | ⬇️ 5.9MB/s"
+    password: 4a7f880c-72f4-11ed-b0b5-f23c9164ca5d
+    port: 443
+    server: 1a07cd2a-sw3ts0-t6ouc9-13xtu.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 1a07cd2a-sw3ts0-t6ouc9-13xtu.la3.tcpbbr.net
+  - auth: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    down: 125
+    name: "\U0001F1F7\U0001F1FA俄罗斯10 | ⬇️ 6.7MB/s"
+    password: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    port: 38313
+    server: ru2.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: ec07cc72-dda7-49ed-92f9-569cab65212a
+    name: "\U0001F1E9\U0001F1EA德国8 | ⬇️ 1.7MB/s"
+    password: ec07cc72-dda7-49ed-92f9-569cab65212a
+    port: 48216
+    server: tw1.qishuijc.top
+    skip-cert-verify: true
+    sni: tw1.qishuijc.top
+    type: hysteria2
+    udp: true
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 400
+    name: "\U0001F1FA\U0001F1F8美国57 | ⬇️ 1.0MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 35497
+    server: us4.node.cross666.top
+    skip-cert-verify: true
+    sni: www.yahoo.com
+    type: hysteria2
+    udp: true
+    up: 100
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1FA\U0001F1F8美国58 | ⬇️ 8.3MB/s"
+    network: tcp
+    port: 20230
+    reality-opts:
+      public-key: zWY5WwfH-Q8xvLZAr28WjRVk05L4WCp4B7F1lWPM0A8
+      short-id: c1839f26
+    server: us001.421421.xyz
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2ba7e4d0-f2f9-456e-a43e-f5a724d7e367
+    servername: www.nvidia.com
+  - auth: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    down: 125
+    name: "\U0001F1F7\U0001F1FA俄罗斯11 | ⬇️ 1.2MB/s"
+    password: 9514a813-c237-4bfa-87d8-da48b2d020c8
+    port: 37808
+    server: ru2.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - alpn:
+      - h3
+    auth: b72e0a66-c660-4a26-9acc-8f106cee0ab9
+    name: "\U0001F1E6\U0001F1FA澳大利亚1 | ⬇️ 3.0MB/s"
+    password: b72e0a66-c660-4a26-9acc-8f106cee0ab9
+    port: 52111
+    server: 170.64.222.252
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国59 | ⬇️ 7.4MB/s"
+    password: 8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9
+    port: 443
+    server: 6b508d97-sw3ts0-swdpud-duku.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 6b508d97-sw3ts0-swdpud-duku.la3.tcpbbr.net
+  - auth: 4ab4694d-72df-4438-b087-66a0892b7904
+    name: "\U0001F300其他8-LU | ⬇️ 2.2MB/s"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 4ab4694d-72df-4438-b087-66a0892b7904
+    port: 13301
+    server: baipiaoyun-luxemburg-v1.baipiaoyun.site
+    skip-cert-verify: true
+    sni: s0.awsstatic.com
+    type: hysteria2
+    udp: true
+  - auth: 16955d72-1794-11f0-a035-f23c95b6f51d
+    name: "\U0001F1FA\U0001F1F8美国60 | ⬇️ 3.2MB/s"
+    password: 16955d72-1794-11f0-a035-f23c95b6f51d
+    port: 1443
+    server: 2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk
+    skip-cert-verify: false
+    sni: 2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk
+    type: hysteria2
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1E9\U0001F1EA德国9 | ⬇️ 1.5MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ
+      short-id: 7def4dde
+    server: 5.75.192.18
+    tls: true
+    type: vless
+    udp: true
+    uuid: 33707040-edcf-4185-94e4-2a071315c602
+    servername: vpn_proxy_channel_vpn_proxy_channel.hohod.ir
+  - name: "\U0001F1FA\U0001F1F8美国61 | ⬇️ 4.5MB/s"
+    network: ws
+    port: 443
+    server: 104.16.95.143
+    tls: true
+    type: vless
+    udp: true
+    uuid: b5441b0d-2147-4898-8a6a-9b2c87f58382
+    ws-opts:
+      headers:
+        Host: bitget1.asdasd.click
+      path: /?ed=2560
+    servername: bitget1.asdasd.click
+  - client-fingerprint: random
+    name: "\U0001F1EF\U0001F1F5日本11 | ⬇️ 4.2MB/s"
+    network: ws
+    port: 11223
+    server: 218.38.33.77
+    tls: true
+    type: vless
+    udp: true
+    uuid: be21e25f-5919-4e6b-b443-bfa45273de5d
+    ws-opts:
+      headers:
+        Host: mikuyo.bpd67081tsq.ddns-ip.net
+      path: /?ed=2560
+    servername: mikuyo.bpd67081tsq.ddns-ip.net
+  - auth: e1acaf28-797e-4427-bbf8-6ba539bfa6eb
+    name: "\U0001F1F8\U0001F1EC新加坡5 | ⬇️ 4.3MB/s"
+    password: e1acaf28-797e-4427-bbf8-6ba539bfa6eb
+    port: 48214
+    server: xjp2.qishuijc.top
+    skip-cert-verify: true
+    sni: xjp2.qishuijc.top
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国62 | ⬇️ 2.1MB/s"
+    password: 28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9
+    port: 443
+    server: 074952d4-sw3ts0-t94bdb-mrtr.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 074952d4-sw3ts0-t94bdb-mrtr.la3.tcpbbr.net
+  - auth: 349c3556-e414-4cc0-ad6c-737d790638b5
+    down: 125
+    name: "\U0001F1F7\U0001F1FA俄罗斯12 | ⬇️ 1.3MB/s"
+    password: 349c3556-e414-4cc0-ad6c-737d790638b5
+    port: 35481
+    server: ru2.node.cross666.top
+    skip-cert-verify: true
+    sni: mirror.hyperdedic.ru
+    type: hysteria2
+    udp: true
+    up: 100
+  - auth: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    down: 400
+    name: "\U0001F1FA\U0001F1F8美国63 | ⬇️ 6.1MB/s"
+    password: abef57a5-ac14-4356-ba5d-c3fdc85df62b
+    port: 36128
+    server: us4.node.cross666.top
+    skip-cert-verify: true
+    sni: www.yahoo.com
+    type: hysteria2
+    udp: true
+    up: 100
+  - name: "\U0001F1FA\U0001F1F8美国64 | ⬇️ 3.5MB/s"
+    password: ee1b9e94-9b95-11ef-8967-f23c91cfbbc9
+    port: 443
+    server: 7e1a4f9d-sw3ts0-sz052u-amya.la3.tcpbbr.net
+    type: trojan
+    udp: true
+    sni: 7e1a4f9d-sw3ts0-sz052u-amya.la3.tcpbbr.net
+  - name: "\U0001F1FA\U0001F1F8美国65 | ⬇️ 4.7MB/s"
+    network: ws
+    port: 19281
+    server: 23.105.199.91
+    tls: true
+    type: vless
+    udp: true
+    uuid: 0fc8452a-17f9-47de-95dd-65de502d39da
+    ws-opts:
+      headers:
+        Host: madcity2.777999.lol
+      path: /?ed=2560
+    servername: madcity2.777999.lol
+proxy-groups:
+  - name: "\U0001F680 节点选择"
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F680 手动切换"
+    include-all: true
+    type: select
+  - name: ♻️ 自动选择
+    type: url-test
+    include-all: true
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F4F2 电报消息"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4AC Ai平台"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4F9 油管视频"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F3A5 奈飞视频"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F3A5 奈飞节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4FA 巴哈姆特"
+    type: select
+    proxies:
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F680 节点选择"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F4FA 哔哩哔哩"
+    type: select
+    proxies:
+      - "\U0001F3AF 全球直连"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+  - name: "\U0001F30D 国外媒体"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+      - DIRECT
+  - name: "\U0001F30F 国内媒体"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F4E2 谷歌FCM"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: Ⓜ️ 微软Bing
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: Ⓜ️ 微软云盘
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - DIRECT
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F34E 苹果服务"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F3AE 游戏平台"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F3B6 网易音乐"
+    type: select
+    include-all: true
+    filter: (?i)网易|音乐|NetEase|Music
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+  - name: "\U0001F3AF 全球直连"
+    type: select
+    proxies:
+      - DIRECT
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+  - name: "\U0001F6D1 广告拦截"
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: "\U0001F343 应用净化"
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: "\U0001F41F 漏网之鱼"
+    type: select
+    proxies:
+      - "\U0001F680 节点选择"
+      - ♻️ 自动选择
+      - DIRECT
+      - "\U0001F1ED\U0001F1F0 香港节点"
+      - "\U0001F1E8\U0001F1F3 台湾节点"
+      - "\U0001F1F8\U0001F1EC 狮城节点"
+      - "\U0001F1EF\U0001F1F5 日本节点"
+      - "\U0001F1FA\U0001F1F2 美国节点"
+      - "\U0001F1F0\U0001F1F7 韩国节点"
+      - "\U0001F680 手动切换"
+  - name: "\U0001F1ED\U0001F1F0 香港节点"
+    include-all: true
+    filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1EF\U0001F1F5 日本节点"
+    include-all: true
+    filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1FA\U0001F1F2 美国节点"
+    include-all: true
+    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1E8\U0001F1F3 台湾节点"
+    include-all: true
+    filter: (?i)台|新北|彰化|TW|Taiwan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1F8\U0001F1EC 狮城节点"
+    include-all: true
+    filter: (?i)新加坡|坡|狮城|SG|Singapore
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F1F0\U0001F1F7 韩国节点"
+    include-all: true
+    filter: (?i)KR|Korea|KOR|首尔|韩|韓
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: "\U0001F3A5 奈飞节点"
+    include-all: true
+    filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
+    type: select
+rule-providers:
+  LocalAreaNetwork:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
+    path: ./ruleset/LocalAreaNetwork.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  UnBan:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/UnBan.list'
+    path: ./ruleset/UnBan.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BanAD:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list'
+    path: ./ruleset/BanAD.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BanProgramAD:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list
+    path: ./ruleset/BanProgramAD.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GoogleFCM:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/GoogleFCM.list
+    path: ./ruleset/GoogleFCM.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GoogleCN:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/GoogleCN.list
+    path: ./ruleset/GoogleCN.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  SteamCN:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/SteamCN.list
+    path: ./ruleset/SteamCN.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bing:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Bing.list'
+    path: ./ruleset/Bing.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  OneDrive:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/OneDrive.list
+    path: ./ruleset/OneDrive.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Microsoft:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Microsoft.list
+    path: ./ruleset/Microsoft.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Apple:
+    url: 'https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Apple.list'
+    path: ./ruleset/Apple.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Telegram:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Telegram.list
+    path: ./ruleset/Telegram.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  AI:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/AI.list
+    path: ./ruleset/AI.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  OpenAi:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/OpenAi.list
+    path: ./ruleset/OpenAi.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  NetEaseMusic:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/NetEaseMusic.list
+    path: ./ruleset/NetEaseMusic.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Epic:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Epic.list
+    path: ./ruleset/Epic.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Origin:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Origin.list
+    path: ./ruleset/Origin.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Sony:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Sony.list
+    path: ./ruleset/Sony.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Steam.list
+    path: ./ruleset/Steam.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Nintendo:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Nintendo.list
+    path: ./ruleset/Nintendo.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  YouTube:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/YouTube.list
+    path: ./ruleset/YouTube.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Netflix:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Netflix.list
+    path: ./ruleset/Netflix.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bahamut:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bahamut.list
+    path: ./ruleset/Bahamut.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  BilibiliHMT:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/BilibiliHMT.list
+    path: ./ruleset/BilibiliHMT.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Bilibili:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Ruleset/Bilibili.list
+    path: ./ruleset/Bilibili.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaMedia:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaMedia.list
+    path: ./ruleset/ChinaMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ProxyMedia:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
+    path: ./ruleset/ProxyMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ProxyGFWlist:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyGFWlist.list
+    path: ./ruleset/ProxyGFWlist.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaDomain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaDomain.list
+    path: ./ruleset/ChinaDomain.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaCompanyIp:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ChinaCompanyIp.list
+    path: ./ruleset/ChinaCompanyIp.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Download:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/Download.list
+    path: ./ruleset/Download.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+rules:
+  - "PROCESS-NAME,subs-check.exe,\U0001F3AF 全球直连"
+  - "PROCESS-NAME,subs-check,\U0001F3AF 全球直连"
+  - "RULE-SET,LocalAreaNetwork,\U0001F3AF 全球直连"
+  - "RULE-SET,UnBan,\U0001F3AF 全球直连"
+  - "RULE-SET,BanAD,\U0001F6D1 广告拦截"
+  - "RULE-SET,BanProgramAD,\U0001F343 应用净化"
+  - "RULE-SET,GoogleFCM,\U0001F4E2 谷歌FCM"
+  - "RULE-SET,GoogleCN,\U0001F3AF 全球直连"
+  - "RULE-SET,SteamCN,\U0001F3AF 全球直连"
+  - 'RULE-SET,Bing,Ⓜ️ 微软Bing'
+  - 'RULE-SET,OneDrive,Ⓜ️ 微软云盘'
+  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
+  - "RULE-SET,Apple,\U0001F34E 苹果服务"
+  - "RULE-SET,Telegram,\U0001F4F2 电报消息"
+  - "RULE-SET,AI,\U0001F4AC Ai平台"
+  - "RULE-SET,NetEaseMusic,\U0001F3B6 网易音乐"
+  - "RULE-SET,Epic,\U0001F3AE 游戏平台"
+  - "RULE-SET,Origin,\U0001F3AE 游戏平台"
+  - "RULE-SET,Sony,\U0001F3AE 游戏平台"
+  - "RULE-SET,Steam,\U0001F3AE 游戏平台"
+  - "RULE-SET,Nintendo,\U0001F3AE 游戏平台"
+  - "RULE-SET,YouTube,\U0001F4F9 油管视频"
+  - "RULE-SET,Netflix,\U0001F3A5 奈飞视频"
+  - "RULE-SET,Bahamut,\U0001F4FA 巴哈姆特"
+  - "RULE-SET,BilibiliHMT,\U0001F4FA 哔哩哔哩"
+  - "RULE-SET,Bilibili,\U0001F4FA 哔哩哔哩"
+  - "RULE-SET,ChinaMedia,\U0001F30F 国内媒体"
+  - "RULE-SET,ProxyMedia,\U0001F30D 国外媒体"
+  - "RULE-SET,ProxyGFWlist,\U0001F680 节点选择"
+  - "RULE-SET,ChinaDomain,\U0001F3AF 全球直连"
+  - "RULE-SET,ChinaCompanyIp,\U0001F3AF 全球直连"
+  - "RULE-SET,Download,\U0001F3AF 全球直连"
+  - "GEOIP,CN,\U0001F3AF 全球直连"
+  - "MATCH,\U0001F41F 漏网之鱼"
